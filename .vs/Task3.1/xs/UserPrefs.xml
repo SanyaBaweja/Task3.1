@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E063E099-F8CC-45E6-9FCB-563857E1A204}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3.1/Program.cs">
+    <Files>
+      <File FileName="Task3.1/UnitTest1.cs" Line="20" Column="1" />
+      <File FileName="Task3.1/EmptyClass.cs" Line="11" Column="10" />
+      <File FileName="Task3.1/EmptyClass.cs" Line="46" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task3.1" expanded="True">
+            <Node name="Task3.1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Task3.1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Task3.1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
